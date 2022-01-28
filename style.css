@@ -1,0 +1,60 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&display=swap');
+body{
+    font-family: 'Bebas Neue';
+}
+.head-color{
+    color: #FECC02;
+}
+nav{
+    height: 80px;
+}
+.heading{
+     font-size: 62px;
+}
+.banner{
+    background-image: url('images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    min-height: calc(100vh - 80px);
+}
+.movie{
+    background-color: #4E4E4E;
+}
+.movie img{
+    width: 260px;
+    height: 350px;
+}
+.offer img{
+    width: 70px;
+    height: 70px;
+}
+.offer-size{
+    width: 260px;
+    height: 260px;
+}
+.offer p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    line-height: 23px;
+    font-size: 19px;
+}
+footer{
+    background-image: url('images/footer-bg.jpg');
+    height: 400px;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     position: relative;
+}
+footer p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    line-height: 23px;
+    font-size: 19px;
+}
+footer small{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
