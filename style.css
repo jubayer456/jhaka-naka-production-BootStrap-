@@ -22,17 +22,13 @@ nav{
 .movie{
     background-color: #4E4E4E;
 }
-.movie img{
-    width: 260px;
-    height: 350px;
+.movie-img{
+    width: 220px;
+    height: 310px;
 }
 .offer img{
     width: 70px;
     height: 70px;
-}
-.offer-size{
-    width: 260px;
-    height: 260px;
 }
 .offer p{
     font-family: 'Montserrat', sans-serif;
